@@ -1,0 +1,110 @@
+<html>
+	<head>
+		<title>PHP form validation</title>
+
+	</head>
+	<body>
+		<hr>
+		<form>
+			<fieldset>
+				<legend><h1>Club Member Registration</h1></legend>
+				<table>
+					<tr>
+						<td align="right">Name:</td>
+						<td><input type="text">&nbsp;&nbsp;</td>
+					</tr>
+					<tr>
+						<td align="right">Username:</td>
+						<td><input type="text"></td>
+					</tr>
+						<tr>
+						<td align="right">Password:</td>
+						<td><input type="password"></td>
+					</tr>
+					<tr>
+						<td align="right">Confirm Password:</td>
+						<td><input type="password"></td>
+					</tr>
+					<tr>
+						<td align="right">Email:</td>
+						<td><input type="text"></td>
+					</tr>
+					<tr>
+						<td align="right">Phone:</td>
+						<td><input type="text" placeholder="code" size="3">-<input type="text" placeholder="Number" size="9"></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td><input type="text" placeholder="Street Address" size="10"></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td><input type="text" placeholder="City" size="6"><input type="text" placeholder="State" size="6"></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td><input type="text" placeholder="Postal/Zip Code" size="6"></td>
+					</tr>
+					<tr>
+						<td align="right">Birth Date:</td>
+						
+						<td><select>
+								<option selected>Day</option>
+								<?php
+									for($i=1;$i<=31;$i++)(
+										echo "<option>$i</option>";)
+								?>		
+							</select>
+							<select>
+								<option>Month</option>
+								<?php
+									$arr = array("January","February","March","April","May","June","July","August","Septemper","October","November","December";);
+									foreach($arr as $a){
+										echo "<option>$a</option>";}
+								?>
+							</select>
+							<select>
+								<option>Year</option>
+							</select>
+								
+						</td>
+							
+						<td>
+							<select name="Year">
+								<option>Year</option>
+								<option>1996</option>
+								<option>1997</option>
+								<option>1998</option>
+								<option>1999</option>
+								<option>2000</option>
+							</select>
+						</td>
+						
+						</tr>
+						</td>/*
+					</tr>
+					<tr>
+						<td align="right">Gender:</td>
+						<td>
+							<input type="radio" name="gender">Male
+							<input type="radio" name="gender">Female
+						</td>
+					</tr>
+					<tr>
+						<td align="right">Where did you hear about us?</td>
+						<td>
+							<input type="checkbox">A Friend or Colleadue<br>
+							<input type="checkbox">Google<br>
+							<input type="checkbox">Blog Post<br>
+							<input type="checkbox">News Article								
+							
+						</td>
+					</tr>
+					<tr>
+					
+					
+				</table>
+				
+		</form>
+	</body>
+</html>
