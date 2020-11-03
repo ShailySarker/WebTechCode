@@ -32,6 +32,10 @@
 				{
 					header("Location: dashboard.php");
 				}	
+				
+				else{
+					echo "Invalid....!!!! Please try again";
+				}
 			}
 			
 			/*$user = $users->addChild("user");
