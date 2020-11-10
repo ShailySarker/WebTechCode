@@ -1,3 +1,5 @@
+<?php
+	include_once "allvalidation/addbook"; ?>
 <html>
 	<fieldset>
 	<fieldset>
