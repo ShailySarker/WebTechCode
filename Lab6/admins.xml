@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<users>
+  
+	<user>
+		<name>Shaily Sarker</name>
+		<username>shaily</username>
+		<password>ShailY@1234</password>
+		<gender>Female</gender>
+		<email>shaily@gmail.com</email>
+		<contact>123456</contact>
+		<city>Khulna</city>
+		<type>admin</type>
+	</user>
+	<user>
+		<name>Anindya</name>
+		<username>anindya</username>
+		<password>Anindya@1234</password>
+		<gender>Male</gender>
+		<email>anindya@gmail.com</email>
+		<contact>12345623</contact>
+		<city>Khulna</city>
+		<type>admin</type>
+	</user>
+  
+  
+</users>
