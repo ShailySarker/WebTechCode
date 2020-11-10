@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<books>
+	<book>
+		<SR.NO>1</SR.NO>
+		<NAME>A Dictionary of Architecture</NAME>
+		<PUBLISHER>THE BOOK SHOP</PUBLISHER>
+		<ISBN>89564636</ISBN>
+		<PRISE>500</PRISE>
+		<IMAGE>not avaliable </IMAGE>
+		<DELETE>X</DELETE>
+	</book>
+	<book>
+		<SR.NO>2</SR.NO>
+		<NAME>Elephant Kingdom:Sculptures from Indian Architecture</NAME>
+		<PUBLISHER>Wikramjit Ram</PUBLISHER>
+		<ISBN>81-88-204-6</ISBN>
+		<PRISE>1000</PRISE>
+		<IMAGE> not available</IMAGE>
+		<DELETE>X</DELETE>
+	</book>
+	<book>
+		<SR.NO>3</SR.NO>
+		<NAME>Close to Events-Works of Bikash Bhattacharjee</NAME>
+		<PUBLISHER>Manasij Majumder</PUBLISHER>
+		<ISBN>978818973</ISBN>
+		<PRISE>2000</PRISE>
+		<IMAGE> not abailable</IMAGE>
+		<DELETE>X</DELETE>
+	</book>
+</books>
