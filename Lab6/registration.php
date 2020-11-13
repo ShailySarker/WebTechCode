@@ -1,5 +1,5 @@
 <?php
-	include_once "allvalidation/registration_validation.php";
+	include_once "registration_validation.php";
 ?>
 <html>
 	<head>
