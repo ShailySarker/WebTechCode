@@ -1,5 +1,5 @@
 <?php
-	include_once "allvalidation/login_validation";
+	include_once "login_validation";
 ?>
 
 
