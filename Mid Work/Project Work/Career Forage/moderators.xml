@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <username>Shailyy</username>
+    <password>1234</password>
+	<email>shaily@1234gmail.com</email>
+    <type>moderator</type>
+  </user>
+   <user>
+    <username>Anindya</username>
+    <password>1234</password>
+	<email>anindya@1234gmail.com</email>
+    <type>moderator</type>
+  </user>
+  <user>
+    <username>AdibAdib</username>
+    <password>1234</password>
+	<email>adib@1234gmail.com</email>
+    <type>moderator</type>
+  </user>
+</users>
