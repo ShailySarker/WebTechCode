@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<users>
+  
+	<user>
+		<SRNO>1</SRNO>
+		<username>shailyshaily</username>
+		<email>shaily123@gmail.com</email>
+		<contact>123456</contact>
+		<streetaddress>12,</streetaddress>
+		<city>Khulna,</city>
+		<state>East,</state>
+		<postalzipcode>1234,</postalzipcode>
+		<type>user</type>
+	</user>
+	<user>
+		<SRNO>2</SRNO>
+		<username>anindyaanindya</username>
+		<email>anindya123@gmail.com</email>
+		<contact>12345623</contact>
+		<streetaddress>123,</streetaddress>
+		<state>South,</state>
+		<city>Barishal,</city>
+		<postalzipcode>1234</postalzipcode>
+		<type>user</type>
+	</user>
+  
+  
+</users>
