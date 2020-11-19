@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<users>
+  
+	<user>
+		<serialno>1</serialno>
+		<fname>Junior</fname>
+		<lname>Khan</lname>
+		<day>3th</day>
+		<month>January</month>
+		<year>1992</year>
+		<gender>Male</gender>
+		<eback>Graduate</eback>
+		<skils>PHP</skils>
+		<expr>4year</expr>
+		<pdes>JobSeeker</pdes>
+		<contact>12345</contact>
+		<email>junier@123</email>
+		<street>123,</street>
+		<city>Pabna,</city>
+		<state>West,</state>
+		<postalzip>1234</postalzip>
+		<type>user</type>
+	</user>
+	<user>
+		<serialno>2</serialno>
+		<fname>Jini</fname>
+		<lname>Komol</lname>
+		<day>7th</day>
+		<month>November</month>
+		<year>1998</year>
+		<gender>Female</gender>
+		<eback>Undergrade</eback>
+		<skils>Python</skils>
+		<expr>1year</expr>
+		<pdes>HospitalManagement</pdes>
+		<contact>1234577</contact>
+		<email>jini@123</email>
+		<street>76,</street>
+		<city>Khulna,</city>
+		<state>South,</state>
+		<postalzip>1234</postalzip>
+		<type>user</type>
+
+	</user>
+  
+  
+</users>
