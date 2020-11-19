@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<users>
+  
+	<user>
+		<serialno>1</serialno>
+		<jobname>Project developer</jobname>
+		<jobdetails>Have to work in a project farm salary working hour everything</jobdetails>
+		<type>user</type>
+	</user>
+	<user>
+		<serialno>2</serialno>
+		<jobname>Project Master</jobname>
+		<jobdetails>Have to work in a project farm salary working hour everything</jobdetails>
+		<type>user</type>
+	</user>
+  
+  
+</users>

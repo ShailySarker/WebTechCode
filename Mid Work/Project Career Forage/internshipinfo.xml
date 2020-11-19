@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<users>
+  
+	<user>
+		<serialno>1</serialno>
+		<internshipname>Junior Project developer</internshipname>
+		<internshipdetails>Have to work in a project farm salary working hour everything</internshipdetails>
+		<type>user</type>
+	</user>
+	<user>
+		<serialno>2</serialno>
+		<internshipname>Junior Project Helper</internshipname>
+		<internshipdetails>Have to work in a project farm salary working hour everything</internshipdetails>
+		<type>user</type>
+	</user>
+  
+  
+</users>
