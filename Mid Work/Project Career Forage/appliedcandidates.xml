@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<users>
+  
+	<user>
+		<serialno>1</serialno>
+		<username>adibadib</username>
+		<email>adib123@gmail.com</email>
+		<contact>123456</contact>
+		<street>12,</street>
+		<city>Khulna,</city>
+		<state>East,</state>
+		<postalzip>124</postalzip>
+		<type>user</type>
+	</user>
+	<user>
+		<serialno>2</serialno>
+		<username>anindyaanindya</username>
+		<email>anindya123@gmail.com</email>
+		<contact>12345623</contact>
+		<street>123,</street>
+		<state>South,</state>
+		<city>Barishal,</city>
+		<postalzip>123</postalzip>
+		<type>user</type>
+	</user>
+	<user>
+		<serialno>3</serialno>
+		<username>shailyshaily</username>
+		<email>shaily123@gmail.com</email>
+		<contact>12345623</contact>
+		<street>12,</street>
+		<state>West,</state>
+		<city>Dhaka,</city>
+		<postalzip>1234</postalzip>
+		<type>user</type>
+	</user>
+	<user>
+		<serialno>4</serialno>
+		<username>shaplashapla</username>
+		<email>shapla123@gmail.com</email>
+		<contact>12345623</contact>
+		<street>13,</street>
+		<state>North,</state>
+		<city>Pabna,</city>
+		<postalzip>1234,</postalzip>
+		<type>user,</type>
+	</user>
+  
+  
+</users>
