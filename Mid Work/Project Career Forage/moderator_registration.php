@@ -47,12 +47,12 @@
 					</tr>
 					<tr>
 						<td align="right"><strong>Password:</strong></td>
-						<td><input type="text" name="password" placeholder="Enter your password" value="<?php echo $password; ?>"></td>
+						<td><input type="password" name="password" placeholder="Enter your password" value="<?php echo $password; ?>"></td>
 						<td><span style="color:red;"><?php echo $err_username;?></span></td>
 					</tr>
 					<tr>
 						<td align="right"><strong>Confirm Password:</strong></td>
-						<td><input type="text" name="confirmpassword" placeholder="Enter your confirmpassword" value="<?php echo $password; ?>"></td>
+						<td><input type="password" name="confirmpassword" placeholder="Enter your confirmpassword" value="<?php echo $password; ?>"></td>
 						<td><span style="color:red;"><?php echo $err_confirmpassword;;?></span></td>
 					</tr>
 					<tr>

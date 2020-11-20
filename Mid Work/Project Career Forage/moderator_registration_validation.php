@@ -213,7 +213,8 @@
 			fwrite($file,$xml->saveXML());
 			echo "<h1>Register successfully</h1>";
 		}
-		else{echo "<h1>Registation not successful<h1>";}
+		else{
+			echo "<h1>Registation not successful</h1>";}
 	}
 	
 ?>	
