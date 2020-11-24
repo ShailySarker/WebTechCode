@@ -101,7 +101,7 @@
 		else{ $type = htmlspecialchars($_POST["type"]);}
 		$encodepass=md5($password);
 		$conn=mysqli_connect($dbservername,$dbusername,$dbpassword,$dbname);
-		$q = "INSERT INTO Users (id, password, username,type) VALUES ('', '$encoderpassword', '$username', '$type')";
+		$q = "INSERT INTO Users (id,username,password,type) VALUES ('','$username','$encoderpassword', '$type')";
 		
 		if($fillAll==true)
 		{
