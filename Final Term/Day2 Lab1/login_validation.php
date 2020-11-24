@@ -4,7 +4,6 @@
 	$err_username="";
 	$password="";
 	$err_password="";
-	$hasError=false;
 	$dbservername="localhost";
 	$dbusername="root";
 	$dbpassword="";
