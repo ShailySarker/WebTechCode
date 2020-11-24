@@ -4,6 +4,7 @@
 	$err_username="";
 	$password="";
 	$err_password="";
+	$hasError=false;
 	$dbservername="localhost";
 	$dbusername="root";
 	$dbpassword="";
@@ -78,7 +79,7 @@
 		
 		$encodpassword=md5($password);
 		$conn=mysqli_connect($dbservername,$dbusername,$dbpassword,$dbname);
-		$q = "select * from users where userName='$username' and password='$encodpassword'";
+		$q = "select * from Users where username='$username' and password='$encodpassword'";
 		if(!$hasError){
 			$result =mysqli_query($conn, $q);
 			if(mysqli_num_rows($result)>0)
