@@ -1,7 +1,7 @@
 function getElement(id){
 	return document.getElementById(id);
 }
-function validate(){
+function validate2(){
 	refresh();
 	var hasErr=false;
 	var e_username = getElement("username");
@@ -24,9 +24,14 @@ function validate(){
 		err_password.innerHTML = "Password Required";
 		
 	}
+	if(!hasErr){
+		return true;
+	}
+	else{
+		return false;}
 	
 
-	return !hasErr;
+	
 
 }
 function refresh(){
