@@ -48,7 +48,7 @@
 			</form>
 			<a href="login.php">Already Registered? Login</a>
 			
-			
+			<script src="JS Validation/registration_validation.js"></script>
 		</fieldset>
 		</center>
 	</body>

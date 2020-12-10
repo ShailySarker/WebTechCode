@@ -32,7 +32,8 @@
 				</table>
 			</center>	
 			</form>
-			<a href="signup.php">Not registered yet? RegisterS</a>
+			<a href="registration.php">Not registered yet? Register</a>
+			<script src="JS Validation/login_validation.js"></script>
 		</fieldset>
 	</body>
 </html>
