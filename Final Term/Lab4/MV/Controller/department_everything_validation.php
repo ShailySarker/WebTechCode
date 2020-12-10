@@ -40,7 +40,7 @@ if (isset($_POST['edit_department'])) {
 
 function updateDepartment($dname, $id)
 {
-    //UPDATE `department` SET `name` = 'Banglas', `id` = '117' WHERE `department`.`id` = 119;
+    
      $sqlUpdateDepartment = "UPDATE `department` SET `name` = '$dname', id = '$id' WHERE `department`.`id` =" . $_GET['d_id'] . ";";
     if (dbOperation($sqlUpdateDepartment)) {
         header("location:all_department.php");
